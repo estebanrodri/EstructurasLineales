@@ -1,0 +1,16 @@
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.exe.config
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.exe
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.pdb
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\obj\Debug\Estructuras_Lineales.csproj.AssemblyReference.cache
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\obj\Debug\Estructuras_Lineales.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\obj\Debug\Estructuras_Lineales.csproj.CoreCompileInputs.cache
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.exe
+C:\Proyectos Crux\OtrosProyectos\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.pdb
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\bin\Debug\Estructura_Lineales.exe.config
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\bin\Debug\Estructura_Lineales.exe
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\bin\Debug\Estructura_Lineales.pdb
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\obj\Debug\Estructuras_Lineales.csproj.AssemblyReference.cache
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\obj\Debug\Estructuras_Lineales.csproj.SuggestedBindingRedirects.cache
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\obj\Debug\Estructuras_Lineales.csproj.CoreCompileInputs.cache
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\obj\Debug\Estructura_Lineales.exe
+C:\Proyectos Crux\OtrosProyectos\Estructuras_Lineales\Estructuras_Lineales\obj\Debug\Estructura_Lineales.pdb
